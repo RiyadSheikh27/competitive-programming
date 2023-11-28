@@ -1,5 +1,4 @@
 def capitalize_word(word):
-
     result = word[0].upper() + word[1:]
     return result
 
